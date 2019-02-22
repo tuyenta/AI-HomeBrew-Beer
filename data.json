@@ -1,0 +1,1286 @@
+[
+    {
+        "name": "Truck Stop",
+        "category": "English Brown Ale",
+        "ingredients": [
+            "7 lb (3.17 kg) 2-row malt",
+            "1 lb (0.45 kg) Honey malt",
+            "0.5 lb (0.23 kg) Caramel 20 malt",
+            "0.2 lb (0.23 kg) Dark Chocolate malt",
+            "0.12 oz (3.4 g) Apollo hops (60 min)",
+            "0.3 oz (8.5 g) Willamette (10 min)",
+            "0.5 lb (0.23 kg) Wildflower Honey (5 min)",
+            "Safale US-05 ale dry yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.059 (14.56 P)",
+            "Final Gravity: 1.012 (3.03 P)",
+            "ABV: 6.23%",
+            "IBU: 15.4",
+            "SRM: 15.85"
+        ],
+        "intruction": "Single infusion mash at 160\u00b0 F (71\u00b0 C) until conversion is complete. Conduct a 60 minute boil, following the ingredient additions as listed above. Ferment at 68\u00b0 F (20\u00b0 C). After fermentation, cold crash at 32\u00b0 F (0\u00b0 C).\n"
+    },
+    {
+        "name": "Mother Ale",
+        "category": "Blonde Ale",
+        "ingredients": [
+            "10 lb (4.5 kg) Superior Pilsner",
+            "0.75 lb (0.34 kg)\u00a0 Destra-Pils",
+            "0.75 lb (0.34 kg) Malted White Wheat",
+            "0.75 lb (0.34 kg) Vienna malt",
+            "0.4 oz (11 g) Mt. Hood hops, 4.7% a.a. (60 min)",
+            "0.65 oz (18 g) Sterling hops, 7.4% a.a. (60 min)",
+            "0.5 oz (14 g) Sterling hops, 7.4% a.a. (15 min)",
+            "0.75 oz (21 g) Czech Saaz hops, 2.9% a.a. (10 min)",
+            "0.5 oz (14 g) Czech Saaz hops, 2.9% a.a. (dry hop)",
+            "0.35 oz (10 g) Sterling hops, 7.4% a.a. (dry hop)",
+            "0.15 oz (4 g) Chinook hops, 12.2% a.a. (dry hop)",
+            "0.4 oz (11 g) Fermentis SafLager 34/70 yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.049",
+            "Final Gravity: 1.008",
+            "ABV: 5.40%",
+            "IBU: 35"
+        ],
+        "intruction": "Single infusion mash at 148\u00b0 F (64\u00b0 C) for 60 minutes. Mash out at 168\u00b0 F (76\u00b0 C). Sparge at 172\u00b0 F (78\u00b0 C). Conduct a 90 minute boil. Ferment at 67\u00b0 F (19\u00b0 C). Add dry hops on day 7.\n"
+    },
+    {
+        "name": "Bi\u00e8re Blanche",
+        "category": "Witbier",
+        "ingredients": [
+            "8.25 lb (3.74 kg) Pale Wheat malt",
+            "5.4 lb (2.45 kg) Pilsner malt",
+            "2.3 lb (1.04 kg) 2-row malt",
+            "1.4 lb (0.64 kg) Flaked Wheat malt",
+            "3.5 oz (99 g) Acidulated malt",
+            "1.75 oz (50 g) German Tradition hops, 4% a.a. (90 min)",
+            "5 oz (142 g) Dried Moroccan Orange Peel (1 min)",
+            "5 oz (142 g) Freshly Ground Coriander Seed (whirlpool)",
+            "Westmalle yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.048",
+            "Final Gravity: 1.009",
+            "ABV: 5.10%",
+            "IBU: 14",
+            "SRM: 3.4"
+        ],
+        "intruction": "Step mash: 20 minutes at 122\u00b0 F (50\u00b0 C); 20 minutes at 149\u00b0 F (65\u00b0 C); 20 minutes at 158\u00b0F (70\u00b0 C). Boil for 90 minutes, following the ingredient additions as listed. After boil, whirlpool for 20 minutes before chilling. Ferment at 65\u00b0 F (18\u00b0 C) until fermentation is complete. Conduct a diacetyl rest for at least 5 days. Do not use kettle coagulant and do not crash too fast or the yeast will drop the protein haze with it.\n"
+    },
+    {
+        "name": "Belgian Golden Ale",
+        "category": "Belgian and French Ale",
+        "ingredients": [
+            "6.0 lbs (3.23kg) Briess Pilsner malt",
+            "2.33 lbs (1.29 kg) Briess Pale Ale malt",
+            "4.8 oz (161.6 g) Briess White Wheat",
+            "4.8 oz (161.6 g) Briess Raw White Wheat",
+            "1.9 oz (65.2 g) Weyerman Acidulated",
+            "0.6 oz (14.2 g) Sterling, 8.4% aa @ 60 min",
+            "0.6 oz (14.2 g) Sterling, 8.4% aa @ 45 min",
+            "0.6 oz (14.2 g) Sterling, 8.4% aa @ 5 min",
+            "Omega Yeast Labs OYL-500 Saisonsteins Monster or your favorite Belgian/French DRY saison strain",
+            "5.7 g Gypsum in mash",
+            "1.3 g Calcium Chloride @ 45 min in boil",
+            "1.6 g Yeast Nutrient @ 15 min in boil",
+            "1 Tab Whirlfloc @ 10 min in boil"
+        ],
+        "specifications": [
+            "Original Gravity: 1.055 (13.5 P)",
+            "Final Gravity: 1.004",
+            "ABV: 6.7%",
+            "IBU: 33",
+            "SRM: 3.4"
+        ],
+        "intruction": "Mash at 152\u00b0 F (67\u00b0 C) with 11.3 qt of 164\u00b0 F (73.3\u00b0 C) strike water for 30 min. Vorlauf for 15 min or until clear. Sparge with 20 qt of water at 170\u00b0 F (76.7\u00b0 C). Boil for 75 min while following hop and process aid schedule. Cool wort to 75-80\u00b0 F (23.9-26.7\u00b0 C) and pitch yeast. Ferment at 80\u00b0 F (26.7\u00b0 C) until terminal gravity is reached. Crash and carb to 2.6 volume.\n"
+    },
+    {
+        "name": "La Grisette",
+        "category": "Belgian and French Ale",
+        "ingredients": [
+            "3.8 lb (1.72 kg) Pale 2-row malt",
+            "3.8 lb (1.72 kg) Pale Wheat malt",
+            "1.25 lb (0.57 kg) Acidulated malt",
+            "1.12 lb (0.51 kg) Flaked Oats",
+            "0.1 oz (2.8 g) Apollo hops, 18.5% a.a. (60 min)",
+            "0.5 oz (14 g) Apollo hops, 18.5% a.a. (20 min)",
+            "Brewing Science Institute B-22 La Chouffe Belgian yeast or your favorite Belgian yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.051",
+            "ABV: ~5%",
+            "IBU: 28",
+            "SRM: 4"
+        ],
+        "intruction": "Single infusion mash at 150\u00b0 F (66 \u00b0C). Ferment in the temperature range called for by the yeast strain used.\n"
+    },
+    {
+        "name": "90 Shilling Ale",
+        "category": "Scottish and Irish Ale",
+        "ingredients": [
+            "7.2 lb (3.3 kg) Pale malt",
+            "1 lb (0.45 kg) Munich malt",
+            "0.75 lb (0.34 kg) Crystal 10 malt",
+            "0.5 lb (0.23 kg) Flake Wheat",
+            "4.8 oz (136 g) Crystal 15 malt",
+            "1.6 oz (45 g) Chocolate malt",
+            "0.2 oz (6 g) Cascade hops, 5.5% (90 min)",
+            "0.2 oz (6 g) Perle hops, 8% a.a. (90 min)",
+            "0.1 oz (3 g) Nugget hops, 13% a.a. (90 min)",
+            "0.2 oz (6 g) Perle hops, 8% a.a. (45 min)",
+            "0.1 oz (3 g) Cascade hops, 5.5% a.a. (45 min)",
+            "0.1 oz (3 g) Nugget hops, 13% a.a. (45 min)",
+            "0.2 oz (6 g) Perle hops , 8% a.a. (0 min)",
+            "0.1 oz (3 g) Cascade hops, 5.5% a.a. (0 min)"
+        ],
+        "specifications": [
+            "Original Gravity: 1.048 (12 P)",
+            "Final Gravity: 1.008 (2.1 P)",
+            "ABV: 5.30%",
+            "IBU: 27",
+            "SRM: 8.5"
+        ],
+        "intruction": "Single infusion mash at 153\u00b0 F (67\u00b0 C). Add salts (0.33g MgSO4; 6g CaSO4; 0.2g NaCl). Perform a 90 minute boil. Ferment at 67\u00b0 F (19\u00b0 C). Two days after gravity has stabilized and a diacetyl test has been conducted, let chill for 2 weeks before packaging.\n"
+    },
+    {
+        "name": "Worker's Comp",
+        "category": "Saison",
+        "ingredients": [
+            "5.7 lb (2.58 kg) Pilsner malt",
+            "5.0 oz (142 g) Munich malt",
+            "10.5 oz (298 g) Wheat malt",
+            "6.5 oz (184 g) Rye malt",
+            "6.0 oz\u00a0 (170 g) Spelt malt",
+            "2.5 oz (71 g) Oat malt",
+            "3.5 oz (99 g) Flaked Oats",
+            "5.0 oz (142 g) Acidulated malt",
+            "0.75 oz (14 g) Hallertauer Tradition hops, 6.5% a.a. (60 min)",
+            "0.50 oz (14 g) Kent Goldings hops, 5.2% a.a. (10 min)",
+            "0.50 oz (14 g) Crystal hops, 6.2% a.a. (10 min)"
+        ],
+        "specifications": [
+            "Original Gravity: 1.043 (10.7 P)",
+            "Final Gravity: 1.007 (1.8 P)",
+            "ABV: 4.80%",
+            "IBU: 21",
+            "SRM: 3"
+        ],
+        "intruction": "Mash at 65\u00b0 C (149\u00b0 F) for 45 minutes. Boil for 60 minutes. Cool wort to 18\u00b0 C (66\u00b0 F). Pitch yeast and allow to free rise to 25.5\u00b0 C (78\u00b0 F).\n"
+    },
+    {
+        "name": "Haulin' Oats",
+        "category": "Sweet Stout",
+        "ingredients": [
+            "16.5 lb\u00a0(7.48 kg) 2-row malt",
+            "3.5 lb (1.59 kg) Flaked Oats",
+            "3 lb\u00a0(1.36 kg) Munich malt",
+            "1 lb (0.45 kg) Crystal 60",
+            "1 lb (0.45 kg) Chocolate wheat",
+            "1 lb (0.45 kg) Roasted barley",
+            "1 lb (0.45 kg) Perla Negra",
+            "0.5 lb (0.23 kg) Carafa III",
+            "0.5 lb (0.23 kg) Black malt",
+            "0.03 oz (1 g) Fermcap (60 min)",
+            "0.77 oz (22 g) CTZ hops (60 min)",
+            "0.42 oz (12 g) Fuggle hops (30 min)",
+            "0.07 oz (2 g) Whirfloc (15 min)",
+            "0.14 oz (4 g) Yeastex (15 min)",
+            "3 lb (1.36 kg) Lactose (15 min)",
+            "White Labs WLP001"
+        ],
+        "specifications": [
+            "Original Gravity: 1.068 (16.5 P)",
+            "ABV: 5.8%",
+            "IBU: 18"
+        ],
+        "intruction": "Single infusion mash at 151\u00b0 F (61\u00b0 C) until conversion is complete. Conduct a 60 minute boil. Ferment at 65\u00b0 F (18\u00b0 C) until fermentation is complete, and then cold crash prior to packaging. Note: The target original gravity of 1.068 (16.5 P) is projected after the lactose addition.\n"
+    },
+    {
+        "name": "Holy Spin",
+        "category": "American IPA",
+        "ingredients": [
+            "8.5 lb (3.9 kg) American Pale 2-row",
+            "2.1 lb (0.95 kg)\u00a0 Unmalted White Wheat",
+            "10 oz (283 g) Flaked Oats",
+            "1 oz (28 g) Nugget hops, 12.5% a.a. (60 min)",
+            "2 oz (56 g) Citra hops (whirlpool)",
+            "2 oz (56 g) Citra hops (dry hop)",
+            "5 oz (142 g) Citra hops (dry hop)",
+            "Chico/American Ale yeast (Safale US-05)"
+        ],
+        "specifications": [
+            "Original Gravity: 1.061",
+            "Final Gravity: 1.01",
+            "ABV: 6.5%",
+            "IBU: 43",
+            "SRM: 5"
+        ],
+        "intruction": "Single infusion mash at 150\u00b0 F (66\u00b0 C) targeting a mash pH between 5.2 \u2013 5.4. Sparge as you normally would and collect your runnings. Boil for 90 minutes. Chill wort below 170\u00b0 F (77\u00b0 C) or below (if possible) before adding whirlpool hops for 15 minutes. Cool wort to 66\u00b0 F (19\u00b0 C) and pitch yeast. Dry hop with 2 oz of Citra hops 48 hours after the start of primary fermentation, being careful to prevent as much oxygen pickup as possible. Once final gravity is reached, add the remaining 5 oz of Citra dry hops for 5 days. Crash and carbonate to 2.5 volumes of CO2.\n"
+    },
+    {
+        "name": "Never Sleep",
+        "category": "American IPA",
+        "ingredients": [
+            "6.4 lb (2.90 kg) Pilsner malt",
+            "3.25 lb (1.47 kg) English Pale malt",
+            "1.5 lb (0.68 kg) of Oat malt",
+            "14 oz (0.40 kg)Dextrose",
+            "1 oz (28 g) of Vic Secret hops (10 min)",
+            "1.5 oz (42 g) Vic Secret hops (5 min)",
+            "1.5 oz (42 g) Citra hops (5 min)",
+            "5 oz (142 g) Citra hops (whirlpool)",
+            "5 oz (142 g) Vic Secret hops (whirlpool)",
+            "8 oz (227 g) Vic Secret hops (dry hop)",
+            "8 oz (227 g) Citra hops (dry hop)"
+        ],
+        "specifications": [
+            "Original Gravity: 1.065 (15.9 P)",
+            "Final Gravity: 1.013 (3.2 P)",
+            "ABV: 7%",
+            "IBU: 45",
+            "SRM: 3.8"
+        ],
+        "intruction": "Stepped mash: 146\u00b0 F for 15 minutes; 156\u00b0 F for 30 minutes; mash out at 168\u00b0 F for 10-15 minutes. 90 minute boil, following schedule listed in the ingredients. After boil, add whirlpool hops once wort is below 180\u00b0 F to prevent isomerization of hops. Ferment at 68\u00b0 F for 2 days and increase temperature by 2\u00b0 F on day 3. Allow temperature to free rise to 72-73\u00b0 F by day 5. Dry hop for 3 days when final gravity is within 0.5-1 Plato. Complete a diacetyl rest before cold crashing. Do this by taking a 2-4 oz sample that can be capped. Place sample in 140\u00b0 F water for 20 minutes. Allow sample to come down to room temperature and test for diacetyl by smell and taste. If still present wait another 24-48 hours and retest. Only cold crash after the sample has passed the test. Crash at 32\u00b0 F for 4-6 days and transfer to package.\n"
+    },
+    {
+        "name": "CocoWeizen",
+        "category": "Weizen/Weissbier",
+        "ingredients": [
+            "8 lb (3.63 kg) White wheat",
+            "2.5 lb (1.13 kg) 2-row malt",
+            "1.2 oz (24 g) Crystal hops, 3.9% a.a. (60 min)",
+            "Wyeast 3068 Weihenstephan Weizen",
+            "1 lb (0.45 kg) Coconut, shredded (see instructions)"
+        ],
+        "specifications": [
+            "Original Gravity: 1.048 (11.8 P)",
+            "Final Gravity: 1.006 (1.5 P)",
+            "ABV: 5.50%",
+            "IBU: 14",
+            "SRM: 5.5"
+        ],
+        "intruction": "Conduct a mash at 150\u00b0 F (66\u00b0 C) for 60 minutes. Boil for 60 minutes, following the listed ingredient additions. Ferment at 72\u00b0 F (22\u00b0 C) for 10 days.Toast coconut until very dark, but not burnt. Add to secondary in a bag for easy removal. As you will be adding to secondary, take necessary sanitation steps when introducing the coconut. Let beer sit on coconut for 2 days. Transfer and carbonate.\n"
+    },
+    {
+        "name": "Dark Daisy",
+        "category": "Sweet Stout",
+        "ingredients": [
+            "10.1 lb Pale malt",
+            "1.1 lb Chocolate malt (630 L)",
+            "11.2 oz Carafa Special II",
+            "11.2 oz Wheat malt",
+            "8 oz Brown malt",
+            "6.4 oz Lactose",
+            "0.6 oz Centennial hops, 10% a.a. (60 min)",
+            "0.75 oz Centennial hops, 10% a.a. (30 min)",
+            "Ale yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.070",
+            "Final Gravity: 1.020",
+            "ABV: 7.1%",
+            "IBU: 40",
+            "SRM: 63"
+        ],
+        "intruction": "Single infusion mash at 154\u00b0 F (68\u00b0 C).\n"
+    },
+    {
+        "name": "Wizard Fight",
+        "category": "American IPA",
+        "ingredients": [
+            "8 lb (3.63 kg) 2-row malt",
+            "12 oz (0.34 kg) Bonlander Munich malt",
+            "12 oz (0.34 kg) Cara Pils",
+            "4 oz (113 g) Flaked Oats",
+            "0.75 oz (21 g) Warrior hops, 16% a.a. (90 min)",
+            "0.5 oz (14 g) Chinook hops, 13% a.a. (15 min)",
+            "0.64 oz (18 g) Citra hops, 13% a.a. (0 min)",
+            "0.64 oz (18 g) El Dorado hops, 15% a.a. (0 min)",
+            "0.64 oz (18 g) Mosaic hops, 11% a.a. (0 min)",
+            "0.5 oz (14 g) Mosaic hops (dry hop)",
+            "0.5 oz (14 g) Citra hops (dry hop)",
+            "0.5 oz (14 g) El Dorado hops (dry hop)",
+            "Brewing Science Institute London III (Ale)"
+        ],
+        "specifications": [
+            "Original Gravity: 1.059 (14.5 P)",
+            "Final Gravity: 1.010 (2.5 P)",
+            "ABV: 6.5%",
+            "IBU: 60"
+        ],
+        "intruction": "Mash grains at 152\u00b0 F (67\u00b0 C) for 1 hour. Addition of 0.5 g CaSO4 and 0.5 g CaCl2 at mash in. 90 minute boil. Ferment at 68\u00b0 F (20\u00b0 C). Dry hop for five days. Cold crash one day after dry hopping.\n"
+    },
+    {
+        "name": "Fieldhouse Wheat",
+        "category": "American Wheat or Rye",
+        "ingredients": [
+            "15.5 lb (7.03) 2-row malt",
+            "5 lb (2.27) White Wheat;",
+            "8 oz (0.23 kg) Flaked Barley",
+            "0.9 oz (25 g) Goldings hops, 4.8% a.a. (50 min)",
+            "0.6 oz (17 g) Liberty hops, 4.5% a.a. (50 min)",
+            "0.5 oz (14 g) Falconers hops, 11.3% a.a. (20 min)",
+            "0.5 oz (14 g) Falconers hops (5 min)",
+            "0.9 oz (14 g) Falconers hops (dry hop - 6 days)",
+            "Safale US-05 yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.055 (13.5 P)",
+            "Final Gravity: 1.028 (7 P)",
+            "ABV: 5%",
+            "IBU: 25",
+            "SRM: 4.1"
+        ],
+        "intruction": "Mash at 154\u00b0 F (68\u00b0 C). We usually boil 90 minutes, but homebrewers should be fine with 60 minutes. Ferment at 68\u00b0 F (20\u00b0 C).\n"
+    },
+    {
+        "name": "Sir Moch-A-Lot",
+        "category": "Sweet Stout",
+        "ingredients": [
+            "5.8 lb (2.63 kg) Pilsner malt",
+            "2.8 lb (1.27 kg) Golden Promise",
+            "2.0 lb (0.91 kg) Flaked Oats",
+            "1.2 lb (0.54 kg) Simpson brown malt",
+            "0.9 lb (0.41 kg) Chocolate malt",
+            "0.8 lb (0.36 kg) Caramel 45",
+            "0.6 lb (0.27 kg) Black malt",
+            "1.2 oz (34 g) Cascade hops, 5.5% a.a. (60 min)",
+            "0.2 lb Cacao Nibs",
+            "Cold Brew Coffee"
+        ],
+        "specifications": [
+            "Original Gravity: 1.069",
+            "ABV: 7.1%",
+            "IBU: 20"
+        ],
+        "intruction": "Single infusion mash at 154\u00b0 F (68\u00b0 C). Ferment at 68\u00b0 F (20\u00b0 C). Cold crash to 38\u00b0 F (3\u00b0 C) once fermentation has completed. Add cacao nibs for 5 days. Rack off of the cacao nibs and add fresh cold brew to taste. Carbonate to 2.0 volumes of CO2.\n"
+    },
+    {
+        "name": "Don't Poke the Bear",
+        "category": "Sweet Stout",
+        "ingredients": [
+            "12 lb Maris Otter Pale malt",
+            "1.3 lb Rahr White Wheat malt",
+            "11.5 oz Weyermann Munich I",
+            "9.7 oz Crisp Chocolate malt",
+            "9.6 oz Flaked Oats",
+            "9.6 oz Flaked Barley",
+            "7.8 oz Crips Roasted Barley",
+            "0.4 oz Galena hops, 12.5% a.a. (60 min)",
+            "0.9 oz Mt. Hood hops, 6% a.a. (15 min)",
+            "1.5 lb Lactose (20 min)",
+            "Wyeast 1028 London Ale yeast",
+            "Yeast Nutrient (10 min)",
+            "1 oz Dutch Cocoa (30 min)",
+            "6 oz Cocoa Nibs (see instructions)",
+            "2 Vanilla Beans (see instructions)",
+            "2 oz Coffee (see instructions)"
+        ],
+        "specifications": [
+            "Original Gravity: 1.096",
+            "Final Gravity: 1.035",
+            "ABV: 8.2%",
+            "IBU: 17.1",
+            "SRM: 38.3"
+        ],
+        "intruction": "Single infusion mash at 152\u00b0 F for 60 minutes. Mash out at 168\u00b0 F for 10 minutes. Sparge at 168\u00b0 F for 10 minutes. Whirlpool for 10 minutes before chilling. Ferment at 68\u00b0 F. Add coca nibs in a sanitized muslin bag after 75% of fermentation is complete. A diacetyl rest is recommended. Add cold brew, made from your favorite coffee, to secondary and rack on top. Add vannila tincture (started on brew day) to secondary for 1 week.\n"
+    },
+    {
+        "name": "1792 Kentucky Common Ale",
+        "category": "California Common",
+        "ingredients": [
+            "7 lb 2-Row malt",
+            "1.5 lb Flaked Yellow Corn",
+            "0.5 lb Flaked Rye",
+            "0.25 lb Black malt (500 L)",
+            "0.25 lb Crystal 120L malt",
+            "0.5 oz (14 g) Cluster hops, 7% a.a. (60 min)",
+            "0.2 oz Cluster hops, 7% a.a. (30 min)",
+            "0.2 oz Hallertau Blanc hops, 10.5% a.a. (20 min)",
+            "Safale US-05"
+        ],
+        "specifications": [
+            "Original Gravity: 1.051",
+            "Final Gravity: 1.011",
+            "ABV: 5.2%",
+            "IBU: 20.2",
+            "SRM: 15.3"
+        ],
+        "intruction": "Single infusion mash at 152\u00b0 F. Ferment at 65\u00b0 F. Carbonate to 3 volumes CO2.\n"
+    },
+    {
+        "name": "Lemony Sippit",
+        "category": "American Lager",
+        "ingredients": [
+            "7.5 lb (0.68 kg) Bohemian Pilsner",
+            "1.5 lb (0.68 kg) Vienna",
+            "1.5 lb (0.68 kg) Flaked Rice",
+            "1 lb (0.45 kg) Carapils",
+            "1 oz (28 g) Lemondrop hops, 6% a.a. (40 min)",
+            "2 oz (56 g) Lemondrop hops, 6% a.a. (whirlpool)",
+            "2 oz (56 g) Lemon Grass, fresh or dried (whirlpool)",
+            "2 oz (56 g) Lemondrop (dry hop)",
+            "Wyeast 2278 Czech Pils Lager Yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.052",
+            "Final Gravity: 1.012",
+            "ABV: 5.2%",
+            "IBU: 21",
+            "SRM: 3.6"
+        ],
+        "intruction": "Mash in at 152\u00b0 F (67\u00b0 C).\u00a090 minute boil.\u00a0Whirlpool for 20 minutes while also adding the lemongrass and aroma hops.\u00a0Chill to 50\u00b0 F (10\u00b0 C) and oxygenate well.\u00a0Ferment at 50\u00b0 F (10\u00b0 C) until you reach a specific gravity of 1.025, then raise 5\u00b0 F per day (or let free rise) to 68\u00b0 F (20\u00b0 C) and hold for 48 hours for a diacetyl rest and to finish fermenting. Once fermentation is complete, drop temperature to 40\u00b0 F and lager 3-4 weeks before packaging.\nNotes: Fresh lemongrass is always preferred if available. If a heavy lemongrass flavor is preferred try making a lemongrass tincture, and adding adding to taste at packaging. Simply combine 6oz of vodka with 2oz of fresh lemongrass in an airtight container and let sit at room temperature for 2-4 weeks.\n"
+    },
+    {
+        "name": "The Substance",
+        "category": "American IPA",
+        "ingredients": [
+            "10 lb (4.53 kg) Pale 2-row malt",
+            "1.18 lb (0.53 kg) Flaked Wheat",
+            "5.6 oz Crystal 20 malt",
+            "3.8 oz Flaked Oats",
+            "Apollo hops (bittering)",
+            "1 oz Falconer's Flight hops (flameout)",
+            "1 oz Centennial hops (flameout)",
+            "3 oz Falconer's Flight hops (dry hop)",
+            "1.5 oz Centennial hops (dry hop)",
+            "1 oz Eureka hops (dry hop)",
+            "1 oz Apollo hops (dry hop)",
+            "1 oz Chinook hops (dry hop)",
+            "California Common yeast (Wyeast 2112, WLP 810, or similar)"
+        ],
+        "specifications": [
+            "Original Gravity: 1.061",
+            "Final Gravity: 1.011"
+        ],
+        "intruction": "Mash at 150-152\u00b0 F (65-67\u00b0 C). Ferment at 68\u00b0 F (20\u00b0 C), rising to 70-72\u00b0 F (21-22\u00b0 C) in second day of fermentation.\n"
+    },
+    {
+        "name": "Lowest Lord",
+        "category": "Extra Special/Strong Bitter",
+        "ingredients": [
+            "5 lb (2.27 kg) 2-row malt",
+            "2.75 lb (1.25 kg) Maris Otter malt",
+            "12 oz (0.34 kg) Munich I malt",
+            "12 oz (0.34 kg) Aromatic Barley malt",
+            "9 oz (0.25 kg) Crystal 45 malt",
+            "4 oz\u00a0 (0.11 kg) Acidulated malt",
+            "2 oz (57 g) Pale Chocolate malt",
+            "0.5 oz (14 g) Nugget hops, 13% a.a. (45 min)",
+            "1 oz (28 g) Target hops, 10% a.a. (10 min)",
+            "0.5 oz (14 g) Target hops, 10% a.a. (5 min)",
+            "1 oz (28 g) Crystal hops, 3.3% a.a. (5 min)",
+            "White Labs WLP007 Dry English Ale yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.054",
+            "Final Gravity: 1.014",
+            "ABV: 5.30%",
+            "IBU: 42",
+            "SRM: 14"
+        ],
+        "intruction": "Single infusion mash around 152\u00b0 F (67\u00b0 C). Conduct a 90 minute boil, following hop additions as listed in the ingredients section. Ferment in the temperature range called for by the yeast.\n"
+    },
+    {
+        "name": "Matisse",
+        "category": "Saison",
+        "ingredients": [
+            "9.18 lb (4.16 kg) Pilsner malt",
+            "0.7 oz (20 g) Styrian Aurora hops, 8% a.a. (FWH)",
+            "0.3 oz (8 g) Styrian Aurora hops, 8% a.a. (20 min)",
+            "0.5 (14 g) oz Saaz hops, 4% a.a. (whirlpool)",
+            "Belgian Saison yeast strain"
+        ],
+        "specifications": [
+            "Original Gravity: 1.048",
+            "Final Gravity: 1.000",
+            "ABV: 6%",
+            "IBU: 29",
+            "SRM: 3"
+        ],
+        "intruction": "Single infusion mash targeting 150-152\u02daF (66-67\u02da C), whatever gets you to complete attenuation. Add gypsum to around 250ppm sulfate. Target a 5.2 mash pH, we use lactic acid to adjust.\nKnockout post boil around 65\u02daF (18\u02da C), trying to have the top end of fermentation be 70\u02daF (21\u02da C). After five days, remove whatever temperature control you had and allow to free rise to whatever temperature it wants. Fermentation is typically about 4 weeks, we\u2019ll drop the temperature and package in week 5.\nWe\u2019ve tried variations of this recipe with orange peel, peppercorns, different hops, etc. It\u2019s a great base to play around with and experiment ideas. We\u2019ve also tried some mixed fermenations but would recommend adding wheat or other high protein grain to give food for the other yeast/bacteria.\n"
+    },
+    {
+        "name": "Bam Bi\u00e8re",
+        "category": "Sour Ale",
+        "ingredients": [
+            "4 lb (1.81 kg) Pilsner malt",
+            "2 lb (0.91 kg) 2-row Pale malt",
+            "0.75 lb (0.34 kg) Wheat malt",
+            "0.5 lb (0.23 kg) Flaked Barley",
+            "1 oz (28 g) Crystal 75 malt",
+            "0.25 oz (7 g) Black malt",
+            "0.5 oz Cascade hops, 5.5% a.a. (75 min)",
+            "0.75 oz (21 g) Crystal hops, 3.5% a.a. (30 min)",
+            "0.75 oz (21 g) Crystal hops, 3.5% a.a. (0 min)",
+            "0.5 oz (14 g) Crystal hops, 3.5% a.a. (dry hop)",
+            "White Labs WLP 550",
+            "Wild cultures"
+        ],
+        "specifications": [
+            "Original Gravity: 1.037 (9.25 P)",
+            "Final Gravity: 1.004-1.006 (1.0-1.5 P)",
+            "ABV: 4.5%",
+            "IBU: 24"
+        ],
+        "intruction": "Produced with a cultured abbey ale yeast, this beer also benefits from a mixed fermentation of a house wild culture, most likely including Brettanomyces and various Lactobacillus strains. Using the bottle dregs from a Bam Bi\u00e9re to inspire a secondary fermentation in a small oak barrel is probably the best way to recreate this beer at home. The other option is to purchase a mixed culture packet and some oak cubes or spirals and add to the secondary carboy after primary fermentation.\nMash 147-149\u00b0 F (64-65\u00b0 C). Free rise temperature to 80\u00b0 F (27\u00b0 C) and above, do not control temperature during fermentation. Step down to 50-55\u00b0 F (10-13\u00b0 C) once fermentation is complete. Bottle condition to high carb levels. Heavy glass bottles must be used, such as a champagne bottle, to protect from explosion. The safer option is to keg the beer in a corny keg. To dispense the beer properly, higher amounts of C02 will be needed to drwa the beer out to limit excessive foaming.\n"
+    },
+    {
+        "name": "Straight Hash Homie",
+        "category": "American IPA",
+        "ingredients": [
+            "10.5 (4.76 kg) lbs 2-row malt",
+            "1 lb (0.45 kg) Caramalt",
+            "1 lb (0.45 kg) Flaked Rye",
+            "1 lb (0.45 kg) Vienna malt",
+            "12 oz (0.34 kg) Dextrose (60 min)",
+            "2 oz (56 g) Citra Hash (whirlpool)",
+            "2 oz (56 g) Simcoe Hash (whirlpool)",
+            "3 oz (85 g) Citra Hash (dry hop)",
+            "2 oz (56 g)Mosaic Hash (dry hop)",
+            "Omega OYL-052 yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.076",
+            "Final Gravity: 1.018",
+            "ABV: 7.75%",
+            "IBU: 60",
+            "SRM: 5.5"
+        ],
+        "intruction": "Mash in at 152\u00b0 F (67\u00b0 C). Boil 6o minutes. Start fermentation at 66\u00b0 F (19\u00b0 C) and let rise over a week to 72\u00b0 F (22\u00b0 C). Dry hop once fermentation is complete. Hold on dry hops for 3 days, then crash/rack for packaging.\n"
+    },
+    {
+        "name": "Biloxi Pale Ale",
+        "category": "American Pale Ale",
+        "ingredients": [
+            "6.47 lb (2.93 kg) Pale 2-row malt",
+            "1 lb (0.45 kg) Munch malt",
+            "12.4 oz (0.35 kg) Cara-Pils/Dextrine malt",
+            "10.1 oz (0.28 kg) Crystal 40 malt",
+            "0.42 oz (12 g) Citra hops, 14% a.a. (60 min)",
+            "0.42 oz (12 g) Cascade hops, 6.3% a.a. (15 min)",
+            "0.42 oz (12 g) Citra hops, 12.2% a.a. (15 min)",
+            "0.42 oz (12 g) Cascade hops (whirlpool)",
+            "0.42 oz (12 g) Citra hops (whirlpool)",
+            "0.83 oz (23 g) Citra hops (dry hop)",
+            "0.42 oz (12 g) Cascade hops (dry hop)",
+            "Safale US-05 American ale yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.049 (12.2 P)",
+            "Final Gravity: 1.009 (2.4 P)",
+            "ABV: 5.2%",
+            "IBU: 37"
+        ],
+        "intruction": "Mash at 150\u00b0 F (66\u00b0 C) for 75 minutes. Mash out at 168\u00b0 F for 10 minutes. Conduct a 60 minute boil, following ingredient additions as listed. Primary fermetation at 67\u00b0 F (19\u00b0 C), then age at 65\u00b0 F (18\u00b0 C) for 30 days.\n"
+    },
+    {
+        "name": "English Dark Mild",
+        "category": "Mild",
+        "ingredients": [
+            "6.6 lb (2.99 kg) Maris Otter Pale Malt",
+            "0.57 lb (0.26 kg) British Brown Malt",
+            "0.57 lb (0.26 kg) British Amber Malt",
+            "0.57 lb (0.26 kg) Chocolate Rye",
+            "0.2 oz (6 g) CTZ hops, 16.4% a.a. (60 min)",
+            "Wyeast 1968 Ale yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.044",
+            "Final Gravity: 1.012",
+            "ABV: 4.2%",
+            "IBU: 15",
+            "SRM: 19"
+        ],
+        "intruction": "Mash at 150\u00b0 F (66\u00b0 C) for 60 minutes. Boil for 60 minutes. Ferment at 65\u00b0 F (18\u00b0 C). This yeast strain requires extra aeration for best results.\n"
+    },
+    {
+        "name": "Udder Madness",
+        "category": "Sweet Stout",
+        "ingredients": [
+            "5 lb (2.27 kg) 2-row malt",
+            "10 oz (283 g) Flaked wheat",
+            "6 oz (170 g) Crystal 45",
+            "6 oz (170 g) Chocolate malt",
+            "5 oz (142 g) Flaked Oats",
+            "3.7 oz (105 g) Roasted barley",
+            "0.4 oz (11 g)\u00a0 Northern Brewer hops (60 min)",
+            "5 oz (142 g) Lactose Sugar (10 min)",
+            "0.4 oz (11 g) Fuggle hops (5 min)",
+            "American ale yeast",
+            "Chocolate (see instructions)"
+        ],
+        "specifications": [
+            "Original Gravity: 1.058 (14.2 P)",
+            "Final Gravity: 1.014 (3.6 P)",
+            "ABV: 5.7%",
+            "IBU: 21"
+        ],
+        "intruction": "Single infusion mash at 152\u00b0 F (67\u00b0 C) for 60 minutes. Add hops and lactose per recipe. Ferment at 68\u00b0 F (20\u00b0 C) until gravity drops to 1.024 (6 P), then allow to free rise to 70\u00b0 F (21\u00b0 C). After diacetyl rest, remove from yeast and cold crash. Add chocolate of choice (Outlaw Brewing prefers an organic cocao at a rate of 6 oz per gallon). Swirl carboy periodically for first day, then allow to settle for 4 days. Transfer off chocolate, carbonate, and enjoy!\n"
+    },
+    {
+        "name": "Bobber's Big Red Rye Pale Ale",
+        "category": "American Ale",
+        "ingredients": [
+            "8 lb (3.63 kg) Golden Promise",
+            "2 lb (0.91 kg) (Flaked Rye",
+            "1 lb (0.45 kg) Melanoidin malt",
+            "1 lb (0.45 kg) Pale Wheat malt",
+            "8 oz (0.23 kg) Caramunich 2 malt",
+            "8 oz (0.23 kg) Special B malt",
+            "8 oz (0.23 kg) Rice Hulls",
+            "1 oz (28 g) Columbus hops, 11.4% a.a. (FWH)",
+            "1 Whirfloc Tablet (15 min)",
+            "Lallemand BRY-97 yeast",
+            "5 oz (142 g) Mosaic pellet hops, 11.8% a.a. (dry hop)",
+            "3 oz (85 g) Mosaic whole leaf hops, 8.9% a.a. (dry hop)"
+        ],
+        "specifications": [
+            "Original Gravity: 1.058",
+            "Final Gravity: 1.015",
+            "ABV: 5.6%",
+            "IBU: 40",
+            "SRM: 12.5"
+        ],
+        "intruction": "Single infusion mash at 155\u00b0 F (68\u00b0 C) for 60 minutes. Rehydrate and pitch yeast. Ferment at 66\u00b0 F (19\u00b0 F), then warm it up at the end for a diacetyl rest. Dry hop with the pellets for 3 days, then cold crash before kegging. The whole leaf Mosaic hops go in the keg in a mesh bag for as long as the keg lasts (it won\u2019t last long). Tip: before racking to the keg, add the whole leaf hops, then pump up to 15 PSI with CO2, then vent, repeating several times to remove as much O2 as possible before racking.\n"
+    },
+    {
+        "name": "Nevada Weiss",
+        "category": "Berliner Weisse",
+        "ingredients": [
+            "4 lb (1.81 kg) Pilsner malt",
+            "2.25 lb (1.02 kg) Malted Wheat",
+            "Wyeast 3191 Berliner Weisse Blend"
+        ],
+        "specifications": [
+            "Original Gravity: 1.035",
+            "Final Gravity: 1.006",
+            "ABV: 3.8%",
+            "SRM: 2"
+        ],
+        "intruction": "Mash at 148\u00b0 F (74\u00b0 C) for 45 minutes. Boil wort for 60 minutes. Ferment at 70\u00b0 F (21\u00b0 C) for 2 weeks. Transfer to secondary fermentation vessel and maintain temperature at 70\u00b0 F (21\u00b0 C) until desired acidity level is reached. If using a second generation (or beyond) yeast blend, please note that acidity level will likely be reached more quickly than first generation, and flavor/aroma profile may evolve each generation.\n"
+    },
+    {
+        "name": "Rustique",
+        "category": "Saison",
+        "ingredients": [
+            "7.58 lb (3.44 kg) Pilsner malt",
+            "0.88 lb (0.40 kg) Malted wheat",
+            "0.26 lb (0.12 kg) Acidulated malt",
+            "0.25 oz (7 g) German Magnum, 12% a.a. (60 min)",
+            "0.5 oz (14 g) Mandarina Bavaria, 8.5% a.a. (whirlpool)",
+            "0.5 oz (14 g) Hull Melon, 7% a.a. (whirlpool)",
+            "0.5 oz (14 g) Mandarina Bavaria (dry hop)",
+            "0.5 oz (14 g) Hull Melon (dry hop)",
+            "French Saison yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.054",
+            "Final Gravity: 1.004",
+            "ABV: 6.50%",
+            "IBU: 25"
+        ],
+        "intruction": "Single infusion mash at 174\u00b0 F (64\u00b0 C) for 60 minutes. Conduct a 60 minute boil, adding ingredients as noted in the ingredients section. Whirlpool for 20 minutes. Transfer to fermenter at 70\u00b0 F (21\u00b0 C) and let rise to 80\u00b0 F (26\u00b0 C).\n"
+    },
+    {
+        "name": "Tripel Horse",
+        "category": "Belgian Tripel",
+        "ingredients": [
+            "13.5 lb (6.12 kg) Pilsen Malt (Cargill IdaPils)",
+            "1.125 lb (0.51 kg) White Wheat (Briess)",
+            "0.375 lb (0.17 kg) Crystal L15 (Great Western)",
+            "2 lb (0.91 kg) Dextrose (Corn Sugar)",
+            "0.4 oz (11 g) Chinook hops, 11.8% a.a. (45 min)",
+            "0.4 oz (11 g) Hersbrucker (Hallertau) hops, 2.0% a.a. (45 min)",
+            "Whirlfloc (15 min)",
+            "Yeast Nutrient (15 min)",
+            "1 oz (28 g) Saaz hops, 4.0% a.a. (5 min)",
+            "0.2 oz (6 g) Coriander, crushed (5 min)",
+            "Belgian Trappist Yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.087 (21 P)",
+            "Final Gravity: 1.011 (2.8 P)",
+            "ABV: 10%",
+            "IBU: 18",
+            "SRM: 5"
+        ],
+        "intruction": "Single infusion mash at 148\u00b0 F (64\u00b0 C). Sparge at 165\u00b0 F (74\u00b0 C). Add dextrose as you bring wort to a boil. Conduct a 60 minute boil following schedule listed in the ingredients section (it is recommended to add the coriander in a muslin bag so it can be removed). After boil, whirlpool for 5 minutes and then let the kettle sit for 15 minutes. Chill to 72\u00b0 F (22\u00b0 C) and pitch yeast. Aerate. Ferment at 72\u00b0 F (22\u00b0 C) for 7-10 days, then cold condition for 7 days. Carbonate and enjoy!\n"
+    },
+    {
+        "name": "New England IPA",
+        "category": "American IPA",
+        "ingredients": [
+            "7.45 lb (3.38 kg) 2-row",
+            "3.77 lb (1.71 kg) Malted White Wheat",
+            "2.18 lb (0.99 kg) Flaked Oats",
+            "0.2 oz (6 g) Citra hops, 13.7% a.a. (FWH)",
+            "0.2 oz (6 g) Mosaic hops, 10.7% a.a. (FWH)",
+            "0.2 oz (6 g) El Dorado, 15% a.a.\u00a0 (FWH)",
+            "1.3 oz (37 g) Citra hops, 13.7% a.a. (whirlpool)",
+            "1.3 oz (37 g) Mosaic hops, 10.7% a.a.\u00a0(whirlpool)",
+            "1.3 oz (37 g) El Dorado, 15% a.a.\u00a0(whirlpool)",
+            "1.3 oz (37 g) Citra hops, 13.7% a.a. (dry hop #1)",
+            "1.3 oz (37 g) Mosaic hops, 10.7% a.a.\u00a0(dry hop #1)",
+            "1.3 oz (37 g) El Dorado, 15% a.a.\u00a0(dry hop #1)",
+            "1.3 oz (37 g) Citra hops, 13.7% a.a. (dry hop #2)",
+            "1.3 oz (37 g) Mosaic hops, 10.7% a.a.\u00a0(dry hop #2)",
+            "1.3 oz (37 g) El Dorado, 15% a.a.\u00a0(dry hop #2)",
+            "London ale III",
+            "0.32 oz (9 g) Calcium Chloride",
+            "2.21 ml Phosphoric Acid (85%)",
+            "0.32 oz (9 g) Calcium Sulfate (gypsum)",
+            "16 ml Zinc, yeast nutrient (15 min)"
+        ],
+        "specifications": [
+            "Original Gravity: 1.066 (16.2 P)",
+            "Final Gravity: 1.014 (3.7 P)",
+            "ABV: 7.1%",
+            "IBU: 69",
+            "SRM: 4.3"
+        ],
+        "intruction": "Mash at 154\u00b0 F with a girst ratio of 2.5 qt/lb. Mash in all the grain, mixing in all the calcium chloride and 0.6 mL of phosphoric acid. Rest for one hour, vorlauf for 30 minutes. Run off wort into kettle and add first wort hop (FWH) additions as well as 0.32 oz calcium sulfate. Start sparge. Boil 60 minutes, adding zinc with 15 minutes remaining. After boil, whirlpool hops for 15 minutes. Chill to 68\u00b0 F and pitch yeast. Ferment at 68\u00b0 F. Add the first dry hops and recirculate. After 2 days, add dry hop #2 and recirculate. Cold crash the next day to 33\u00b0 F. Leave cold crashed for 4-6 days.\n"
+    },
+    {
+        "name": "Massive IPA",
+        "category": "American IPA",
+        "ingredients": [
+            "10.5 lb (4.76 kg) Domestic 2-row malt",
+            "0.75 lb (0.24 kg)\u00a0 Weyermann caraamber",
+            "0.5 lb (0.23 kg) crystal 30'L",
+            "0.5 lb (0.23 kg) light dextrine malt such as carapils",
+            "0.5 lb (0.23 kg) Pre-gelatinized flaked oats",
+            "0.75 oz (21 g) Chinook hops (60 min)",
+            "0.5 oz (14 g) Centennial hops (1 min)",
+            "1 oz (28 g) Cascade hops (1 min)",
+            "0.5 oz (14 g) Simcoe hops (1 min)",
+            "0.25 oz (7 g) Cascade hops (flameout)",
+            "0.25 oz (7 g) Centennial hops (flameout)",
+            "0.5 oz (14 g) Simcoe hops (flameout)",
+            "0.5 oz (14 g) Cascade hops (dry hop)",
+            "0.5 oz (14 g) Simcoe hops (dry hop)",
+            "American Ale yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.065 (16 P)",
+            "Final Gravity: 1.011 (2.9 P)",
+            "ABV: 6.7%",
+            "IBU: 55",
+            "SRM: 10"
+        ],
+        "intruction": "Mash at 151\u00b0 F (suggested: 1 tsp. CaSO4). Ferment with your favorite American Ale strain at its suggested temperature. Dry hop at high krausen. Carbonate to 2.5 volumes CO2. Compare the the real thing!\n"
+    },
+    {
+        "name": "Golem Pale Strong Ale",
+        "category": "Belgian Golden Strong Ale",
+        "ingredients": [
+            "10 lb (4.53 kg) Belgian Pilsner malt",
+            "1 lb (0.45 kg) Wheat malt",
+            "8 oz (0.23 kg) Acidulated malt (more if your water is high pH)",
+            "8 oz (0.23 kg) Flaked Oats",
+            "8 oz (0.23 kg) Flaked Corn",
+            "4-8 oz (113-227 g) Rice Hulls (depending on your system)",
+            "2 lb (0.91 kg) Belgian Rock Candy Sugar (if syrup, use 3 lb)",
+            "1 oz (28 g) Styrian Golding hops (FWH)",
+            "2 oz (56 g)\u00a0Styrian Golding hops (80 min)",
+            "1 oz (28 g) Czech Saaz hops (10 min)",
+            "2 oz (56 g)\u00a0Czech Saaz hops (whirlpool)",
+            "Irish Moss (15 min)",
+            "Yeast Nutrient (15 min)",
+            "Belgian yeast: WLP 570, Wyeast 3787, WLP 510 (a bit less estery), Wyeast 3522, are just a few good ones"
+        ],
+        "specifications": [
+            "Original Gravity: 1.086",
+            "Final Gravity: 1.015",
+            "ABV: 9.5%",
+            "IBU: 45-50",
+            "SRM: 6.5"
+        ],
+        "intruction": "Mash schedule: 131\u00b0 F (55\u00b0 C) for 15 minutes; 146-148\u00b0 F (63-64\u00b0 C) for 30 minutes; 152\u00b0 F (67\u00b0 C) for 40 minutes; 158-162\u00b0 F (70-72\u00b0 C) for 15 minutes; mash out to 168\u00b0 F (76\u00b0 C( for 30 minutes. Collect runnings, adding first wort hop addition to the kettle. Boil 90 minutes. Cool to 70\u00b0 F (21\u00b0 C) as quickly as possible and pitch yeast. If oxygen injection is possible, do it! If not, shake the hell out of the carboy or use another method for aeration. Allow primary fermentation at 66-72\u00b0 F (19-22\u00b0 C) for 10 days. Then slow bring temperature down 5\u00b0 F per day until you reach 33-42\u00b0 F (1-6\u00b0 C). Condition at this temperature for 6-8 weeks. Carbonate and enjoy.\n"
+    },
+    {
+        "name": "Wood Chipper",
+        "category": "American IPA",
+        "ingredients": [
+            "10.5 lb (4.76 kg) Pale malt",
+            "1 lb (0.45 kg) Munich I malt",
+            "Rice hulls (as much needed for your system)",
+            "0.5 oz (14 g) Centennial hops, 5.8% a.a. (FWH)",
+            "0.75 oz (21 g) Horizon hops, 11.3% a.a. (60 min)",
+            "0.75 oz (21 g) Cascade hops, 7.55% a.a. (10 min)",
+            "0.5 oz (14 g) Chinook hops, 11.1% a.a. (10 min)",
+            "Whirfloc (15 min)",
+            "Servomyces (10 min)",
+            "1 oz (28 g) Centennial hops, 5.8% a.a. (whirlpool)",
+            "0.5 oz (14 g) Cascade hops, 7.55% a.a. (whirlpool)",
+            "0.25 oz (7 g) Chinook hops, 11.1% a.a. (whirlpool)",
+            "American Ale yeast",
+            "1 oz (28 g) Simcoe hops (dry hop)",
+            "1 oz (28 g) Chinook hops (dry hop)",
+            "1 oz (28 g) Centennial hops (dry hop)",
+            "1 oz (28 g) Cascade hops (dry hop)"
+        ],
+        "specifications": [
+            "Original Gravity: 1.062",
+            "ABV: 6.5%",
+            "IBU: 59",
+            "SRM: 4.5"
+        ],
+        "intruction": "Mash at 155\u00b0 F (68 \u00b0C). Boil for 60 minutes, following additions as listed in the ingredients. Ferment in the temperature range called for by the yeast used.\n"
+    },
+    {
+        "name": "Oubliette",
+        "category": "Russian Imperial Stout",
+        "ingredients": [
+            "28 lb (12.7 kg) 2-row malt",
+            "5 lb (2.27 kg) Weyermann Munich 2",
+            "2 lb (0.91 kg)\u00a0 Simpson's chocolate malt",
+            "1 lb (0.45 kg) Simpson's dark crystal",
+            "1 lb (0.45 kg) Simpson's light crystal",
+            "1 lb (0.45 kg) Simpson's extra dark crystal",
+            "1 lb (0.45 kg) Crisp pale chocolate malt",
+            "12 oz (0.34 kg) Briess Midnight Wheat malt",
+            "5 lb (2.27 kg) dark candy sugar",
+            "1 oz (28 g) Mosaic hops (180 min)",
+            "1 oz (28 g) Glacier hops (180 min)",
+            "2 oz (56 g) Magnum hops (60 min)",
+            "2 oz (56 g) Glacier hops (15 min)",
+            "1 oz (28 g) Mosaic hops (15 min)",
+            "2 oz (56 g) Mosaic hops (flameout)",
+            "2 oz (56 g) Glacier hops (flameout)",
+            "British ale yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.112",
+            "Final Gravity: 1.02",
+            "ABV: 12%",
+            "IBU: 90"
+        ],
+        "intruction": "Single infusion mash at 148\u00b0 F (64\u00b0 C). Keep fermentation temperatures on the cooler side of the yeast strain\u2019s temperature range. If Glacier hops aren\u2019t available, Willamette can be substituted.\n"
+    },
+    {
+        "name": "Velvet Antler",
+        "category": "American Amber Ale",
+        "ingredients": [
+            "7.0 lb (3.18 kg) 2-row malt",
+            "2.0 lb (0.91 kg) Caramel 60L malt",
+            "0.5 lb (0.23 kg) Munich Light malt",
+            "0.5 lb (0.23 kg) Red malt",
+            "0.5 lb (0.23 kg) Flaked Wheat",
+            "0.5 lb (0.23 kg) Flaked Barley",
+            "0.4 oz (11 g) Simcoe hops (60 min)",
+            "0.3 oz (8 g) Cascade hops (0 min)",
+            "Safale S-05"
+        ],
+        "specifications": [
+            "Original Gravity: 1.045",
+            "ABV: 4.6%",
+            "IBU: 14"
+        ],
+        "intruction": "Mash at 154\u00b0 F (68\u00b0 C) for 60 minutes. Mash out at about 170\u00b0 F (77\u00b0 C) for 10-15 min. Sparge and lauter as usual. Boil for 60 min. Pitch yeast at 68\u00b0 F (20\u00b0 C). Ferment at 68\u00b0 F (20\u00b0 C). Secondary until clear.\n"
+    },
+    {
+        "name": "Sabrage",
+        "category": "American IPA",
+        "ingredients": [
+            "8 lb (3.63 kg) Pilsner malt",
+            "2 lb (0.91 kg) Flaked Rice",
+            "2 oz (56 g) Citra hops (mash)",
+            "2 oz (56 g) Citra hops (lauter)",
+            "2 oz (56 g) Citra hops (whirlpool)",
+            "6 oz (170 g) Citra hops (dry hop)",
+            "2 oz (56 g) Chinook hops (dry hop)"
+        ],
+        "specifications": [
+            "Original Gravity: 1.050",
+            "Final Gravity: 1.000",
+            "ABV: 6.6%",
+            "IBU: 10"
+        ],
+        "intruction": "Mash at 142\u00b0 F (61\u00b0 C) for 60 minutes. Mash out at 168\u00b0 F (76\u00b0 C). Lauter onto Citra hops. Boil for 90 minutes. Add cold water to hit target gravity if needed, then add whirlpool hops. Ferment with a neutral ale strain at 65\u00b0 F (18\u00b0 C). After terminal and diacetyl rest, dry hop for 3-5 days. Force carbonate or bottle condition to 3.0 volumes of CO2. For a special version of this recipe, try incorporating a grape varietal into the fermentation.\n"
+    },
+    {
+        "name": "Pious Monk Dunkel",
+        "category": "Munich Dunkel",
+        "ingredients": [
+            "4.16 lb (1.89 kg) Pilsner malt",
+            "4.16 lb (1.89 kg) Munich malt",
+            "12 oz (0.34 kg) Melanoidin",
+            "10 oz (0.28 kg) CaraFoam",
+            "6 oz (0.17 kg)CaraAroma",
+            "3 oz (85 g) Carafa II",
+            "0.7 oz (20 g) Perle hops, 8.1% a.a. (90 min)",
+            "0.7 oz (20 g) Tettnang hops, 4.7% a.a. (20 min)",
+            "Augustiner lager yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.054",
+            "Final Gravity: 1.012",
+            "ABV: 5.5%",
+            "IBU: 26",
+            "SRM: 16.5"
+        ],
+        "intruction": "Start mash at 140\u00b0 F (60\u00b0 C). Pull decoction and return to mash to raise temp to 154\u00b0 F (68\u00b0 C). Chill wort to 50\u00b0 F (10\u00b0 C) and pitch yeast. Allow fermentation to free rise to 52\u00b0 F (11\u00b0 C). After fermentation and a diacetyl rest, drop temperature by 5 degrees a day until you reach 35\u00b0 F (2\u00b0 C). Lager at 35\u00b0 F (2\u00b0 C) for 3 weeks\n"
+    },
+    {
+        "name": "Battlecow Galacticose",
+        "category": "American IPA",
+        "ingredients": [
+            "10 lb (4.5 kg) 2-row malt",
+            "2 lb (0.91 kg) Flaked Oats",
+            "1.5 lb (0.68 kg) Carafoam",
+            "1.5 lb (0.68 kg) White Wheat",
+            "2 lb (0.91 kg) Milk Sugar (lactose)",
+            "2 oz (56 g) Columbus whole leaf hops, 14% a.a. (FWH)",
+            "2 oz (56 g) Columbus pellet hops, 14% a.a. (60 min)",
+            "2 oz (56 g) Citra pellet hops, 12% a.a. (whirlpool, 30 min)",
+            "2 oz mosaic pellet hops, 12.25% a.a. (whirlpool, 30 min)",
+            "The Yeast Bay's Hazy Daze IPA Blend yeast",
+            "1 oz (28 g) Citra pellet hops, 12% a.a. (dry hop, 2 days into fermentation)",
+            "1 oz (28 g) Mosaic pellet hops, 12.25% a.a. (dry hop, 2 days into fermentation)",
+            "1 oz (28 g) Citra pellet hops, 12% a.a. (dry hop, 4 days)",
+            "1 oz (28 g) Mosaic pellet hops, 12.25% a.a. (dry hop, 2 days)",
+            "2 oz (56 g) Citra pellet hops, 12% a.a. (dry hop, 10 days)",
+            "2 oz (56 g) Mosaic pellet hops, 12.25% a.a. (dry hop, 10 days)",
+            "1 oz (28 g) Citra cryo hops, 26% a.a. (during kegging)",
+            "1 oz (28 g) Mosaic cryo hops, 26% a.a. (during kegging)"
+        ],
+        "specifications": [
+            "Original Gravity: 1.071",
+            "Final Gravity: 1.019",
+            "ABV: 8.1%",
+            "IBU: 70",
+            "SRM: 3.6"
+        ],
+        "intruction": "Single infusion mash at 155\u00b0 F (68\u00b0 C) for 60 minutes. Add first wort hops (FWH) as wort is being collected in the boil pot. Boil for 60 minutes, following ingredient additions as listed. Turn off heat and let temperature drop to 198\u00b0 F (92\u00b0 C), then add the whirlpool hops and let stand for 30 minutes. Chill to 70\u00b0 F (21\u00b0 C), transfer to a fermenter, and pitch yeast. 2 days after pitching the yeast, add the first dry hop additions (1 oz Citra; 1 oz Mosaic) . After active fermentation has stopped, typically 4-5 days after pitching the yeast, add the second round of dry hops (1 oz Citra; 1 oz Mosaic). A day later, burp your fermenter (if possible) with a 30 second burst of CO2 to rouse the hops. Just before kegging your beer, bag and add last dry hop additions (1 oz Citra cryo; 1 oz Mosaic cryo) to the keg. Enjoy!\n"
+    },
+    {
+        "name": "Pluff Mud",
+        "category": "Brown Porter",
+        "ingredients": [
+            "6.6 lb (2.99 kg) Pale malt",
+            "2.4 lb (1.09 kg) Crystal 20",
+            "1.2 lb (0.54 kg) Crystal 60",
+            "1.2 lb (0.54 kg) Munich II",
+            "9.5 oz (0.27 kg) Carafa",
+            "0.78 oz (22 g) Northern Brewer hops, 8.5% a.a. (60 min)",
+            "British Ale yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.061 (15 P)",
+            "Final Gravity: 1.021 (5.3 P)",
+            "ABV: 5.5%",
+            "IBU: 21",
+            "SRM: 24"
+        ],
+        "intruction": "Mash at 65\u00b0 C (149\u00b0 F) for 45 minutes. Ferment at yeast\u2019s specifications.\n"
+    },
+    {
+        "name": "Pile O' Dirt",
+        "category": "Robust Porter",
+        "ingredients": [
+            "9 lb (4.08 kg) Briess Pale Ale malt",
+            "1.5 lb (0.68 kg) Briess Bonlander Munich malt (10L)",
+            "0.5 lb (0.23 kg) Briess Chocolate malt",
+            "0.5 lb (0.23 kg) Briess Carapils malt",
+            "0.5 lb (0.23 kg) Briess Extra Special malt",
+            "0.5 lb (0.23 kg) Briess Blackprinz malt",
+            "0.5 oz (14 g) Perle hops, 8.2 % a.a. (first wort)",
+            "0.3 oz Willamette hops, 4.5% a.a. (10 min)",
+            "0.3 oz Willamette hops, 4.5% a.a. (whirlpool)",
+            "Pacific Northwest Ale yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.062",
+            "Final Gravity: 1.015",
+            "ABV: 5.5%",
+            "IBU: 20",
+            "SRM: 35"
+        ],
+        "intruction": "Single infusion mash at 156\u00b0 F (69\u00b0 C) for 60 minutes. 60 minute boil. Ferment at 63\u00b0 F (17\u00b0 C).\n"
+    },
+    {
+        "name": "Divarty Red Legs",
+        "category": "Irish Red Ale",
+        "ingredients": [
+            "8 lb (3.63 kg) 2-row malt",
+            "5 oz (142 g) Caramel malt, 60L",
+            "4 oz (113 g) Caramel malt, 120L",
+            "4 oz (113 g) Chocolate malt, 350L",
+            "1.25 oz (35 g) Willamette hops, 5.5% a.a. (60 min)",
+            "Irish Moss (10 min)",
+            "Safale US-05 yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.046",
+            "Final Gravity: 1.011",
+            "ABV: 4.5%",
+            "IBU: 24.7",
+            "SRM: 14.1"
+        ],
+        "intruction": "Single infusion mash at 153\u00b0 F (67\u00b0 C). Ferment at 68\u00b0 F for 1 week. Rack into secondary for 1 week. Carbonate to 2.3 volumes of CO2.\n"
+    },
+    {
+        "name": "Figlet",
+        "category": "Belgian Specialty Ale",
+        "ingredients": [
+            "6 lb (2.72 kg) Munich II",
+            "1.75 lb (0.79 kg) Pilsner malt",
+            "0.5 lb (0.23 kg)Rolled Oats",
+            "0.5 oz (14 g) ZYthos hops, 9.6% a.a. (60 min)",
+            "Mixed Culture or French Saison Yeast",
+            "Cold-smoked figs"
+        ],
+        "specifications": [
+            "Original Gravity: 1.045",
+            "Final Gravity: 1.000",
+            "ABV: 6.4%",
+            "IBU: 28",
+            "SRM: 8.5"
+        ],
+        "intruction": "Mash at 152\u00b0 F (67\u00b0 C). Ferment according to the yeast\u2019s specifications. After primary fermentation, rack to secondary with cold-smoked figs.\n"
+    },
+    {
+        "name": "Red Rock Black Bier",
+        "category": "Schwarzbier",
+        "ingredients": [
+            "7.0 lbs (3.18 kg) Pilsner malt",
+            "12 oz (340 g) Munich malt 10\u00b0 L",
+            "5 oz (140 g) dehusked black malt",
+            "1.5 oz (43 g) roast malt",
+            "0.75 oz (21 g) Tettnang (4% AA) @ 60 min",
+            "0.75 oz (21 g) Tettnang (4% AA) @ 30 min",
+            "1.5 oz (43 g) Hallertauer Mittelfr\u00fch (4% AA) @ whirlpool",
+            "Lager yeast (2124 Wyeast)",
+            "Adjust reverse osmosis water pH with lactic acid. No calcium needed."
+        ],
+        "specifications": [
+            "Original Gravity: 1.040 (10 P)",
+            "Final Gravity: 1.009 (2.3 P)",
+            "ABV: 4%",
+            "IBU: 28"
+        ],
+        "intruction": "Mash as normal, rest at 148-149\u00b0 F (64.4-65\u00b0 C), thin mash. Ferment at 48-49\u00b0 F (8.9-9.4\u00b0 C). Once primary fermentation is complete, rack the beer off the yeast and age in the coldest place you have, 33-36\u00b0 F (0.5-2\u00b0 C) is optimal. Since it\u2019s only 4% ABV do not cool below 33\u00b0 F (0.5\u00b0 C). Rack again into a Cornelius keg or bottle. Carbonate to 2.5 vol CO2.\n"
+    },
+    {
+        "name": "Whetstoner",
+        "category": "American IPA",
+        "ingredients": [
+            "7 lb (3.18 kg) Pale (2-row) malt",
+            "1 lb (0.45 kg) White Wheat",
+            "0.5 lb (0.23 kg) Crystal 30 malt",
+            "2.25 oz (64 g) Amarillo hops, 9.2% (whirlpool)",
+            "1.50 oz (42 g) Simcoe hops, 13% a.a. (whirlpool)",
+            "0.75 oz (21 g) Amarillo hops, 9.2% a.a. (dry hop)",
+            "0.75 oz (21 g) Citra hops, 13.4% a.a. (dry hop)",
+            "0.75 oz (21 g) Simcoe hops, 13% a.a. (dry hop)",
+            "American Ale yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.045",
+            "Final Gravity: 1.01",
+            "ABV: 4.60%",
+            "IBU: 36",
+            "SRM: 4.8"
+        ],
+        "intruction": "Single infusion mash at 150\u00b0 F (66\u00b0 C). Sparge at 168\u00b0 F (76\u00b0 C). Boil 90 minutes, following hop additions as listed in the ingredients section. Ferment at 65\u00b0 F (18\u00b0 C) or within the range of the yeast used. After fermentation, add dry hops and let sit 2 days. Carbonate to 2.3 volumes of CO2.\n"
+    },
+    {
+        "name": "Martian Spring",
+        "category": "Bi\u00e8re de Garde",
+        "ingredients": [
+            "4.44 lb (2.01 kg) Pilsner malt",
+            "3.19 lb (1.45 kg) Wheat malt",
+            "1.63 lb (0.74 kg) Optic malt",
+            "1 lb (0.45 kg) Caramel Pilsner malt",
+            "15 oz (0.43 kg) Flaked Oats",
+            "0.6 oz (17 g) UK Target hops, 9.8% a.a. (60 min)",
+            "0.4 oz (11 g) Simcoe hops, 11% a.a. (30 min)",
+            "0.4 oz (11 g) Citra hops, 12% a.a. (30 min)",
+            "6.5 oz (184 g) White Sugar (5 min)",
+            "0.4 oz (11 g) Citra hops, 12% a.a. (0 min)",
+            "0.4 oz. (11 g) Galena hops, 13.9% a.a. (0 min)",
+            "1.4 oz (40 g) Centennial hops, 10% a.a. (dry hop)",
+            "1.0 oz (28 g) Simcoe hops, 11% a.a. (dry hop)",
+            "0.6 oz (17 g) Citra hops, 12% a.a. (dry hop)",
+            "Bi\u00e8re de Garde yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.061 (15 P)",
+            "Final Gravity: 1.013 (3.2)",
+            "ABV: 6.20%",
+            "IBU: 40"
+        ],
+        "intruction": "If possible, conduct a stepped mash with 20 minute holds at the following temperatures:\u00a0 122\u00b0 F, 144\u00b0 F, 156\u00b0 F, and 168\u00b0 F. Alternatively, you can do a single infusion mash for 60 minutes at 156\u00b0 F and then sparge at 168\u00b0 F. Continue with a standard 60-minute boil, adding hops and sugar according to the ingredients section. Start fermentation at 72\u00b0 F, the let the temperature free rise. Don\u2019t panic if temperatures get over 90\u00b0 F! Biere de Garde yeast can be finicky sometimes and just quit fermenting if you try to cool the temperature. Once fermentation is complete, transfer to secondary. For best results, age your beer in or on red wine oak barrels or oak chips. The touch of red wine character gives the beer a lovely, subtle character that works well with the yeast and hop characteristics. Allow beer to age for at least 8 weeks, perhaps up to 12 weeks, bringing the temperature down to 45-50\u00b0 F for the last 2-3 weeks. After aging, simply continue with bottling/kegging as usual.\nBrewer\u2019s note: this beer requires patience and attention to temperature! Sure, let the fermentation temperature go as high as it wants, but then follow the aging program above for the best results. Biere de Garde is a funny yeast to work with, but its results can be beautiful. In fact, this is the perfect beer to brew in December, bottle in February, and drink in March. Cheers!\n"
+    },
+    {
+        "name": "Robust Porter",
+        "category": "Robust Porter",
+        "ingredients": [
+            "7 lb (3.18 kg) Maris Otter",
+            "1 lb (0.45 kg) Caramel 40",
+            "0.25 lb (0.11 kg) Caramel 80",
+            "1 lb (0.45 kg) Munich Malt",
+            "1 lb (0.45 kg) Pale Chocolate Malt",
+            "0.25 lb (0.11 kg) British Black Malt",
+            "0.25 lb (0.11 kg) Carapils",
+            "1.25 oz (38 g) Cascade hops, 5.5% a.a. (60 min)",
+            "0.75 oz (21 g) Cascade hops, 5.5% a.a. (10 min)",
+            "American Ale yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.059",
+            "Final Gravity: 1.013",
+            "ABV: 5.90%",
+            "IBU: 30",
+            "SRM: 28"
+        ],
+        "intruction": "Single infusion mash at 152-153\u00b0 F (67\u00b0 C). Ferment at 67\u00b0 F (19\u00b0 C).\n"
+    },
+    {
+        "name": "Rowdy",
+        "category": "American Wheat or Rye",
+        "ingredients": [
+            "6 lb (2.72 kg) Briess Pilsen malt",
+            "1.5 lb (0.68 kg) Briess Rye malt",
+            "0.8 lb (0.36 kg) Weyermann Carared",
+            "0.8 lb (0.36 kg) Briess Aromatic malt",
+            "0.4 lb (0.18 kg) Briess Victory malt",
+            "0.4 lb (0.18 kg) Briess Carapils malt",
+            "0.2 lb (91 g) Briess Midnight Wheat",
+            "0.32 oz (9 g) Bravo hops (90 min)",
+            "0.48 oz (13.5 g) Zythos hops (20 min)",
+            "1.23 oz (35 g) Centennial hops (5 min)",
+            "0.63 oz (18 g) Centennial hops (dry hop)",
+            "0.63 oz (18 g) Zythos hops (dry hop)",
+            "American Ale yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.057 (14 P)",
+            "ABV: 6.2%",
+            "IBU: 50",
+            "SRM: 19"
+        ],
+        "intruction": "Single infusion mash at 68\u00b0 C (154\u00b0 F). Conduct a 90 minute boil.\nOptional water profile: Using carbon filtered DC tap water, add 1.5 g of calcium sulfate and 1.5 g calcium chloride to the mash, as well as 2 mL of food grade 85% phosphoric acid to the sparge.\n"
+    },
+    {
+        "name": "Big Timber Porter",
+        "category": "Robust Porter",
+        "ingredients": [
+            "7.5 lb (3.4 kg) 2-row malt",
+            "1.75 lb (0.79 kg) White Wheat",
+            "1.75 lb (0.79 kg) Brown malt",
+            "8 oz (0.23 kg) Coffee malt",
+            "8 oz (0.23 kg) Extra Dark Crystal malt",
+            "8 oz (0.23 kg) Chocolate malt",
+            "0.63 oz (18 g) Magnum hops, 11% a.a. (80 min)",
+            "0.5 oz (14 g) EKG hops, 5% a.a. (20 min)",
+            "0.5 oz (14 g) EKG hops, 5% a.a. (5 min)",
+            "English Ale Yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.065",
+            "Final Gravity: 1.015",
+            "ABV: 6.5%",
+            "IBU: 33",
+            "SRM: 28"
+        ],
+        "intruction": "Mash at 150\u00b0 F (66\u00b0 C) for 60 minutes. Add calcium carbonate to reach mash pH ~5.4. Boil 90 minutes. Ferment at 68\u00b0 F (20\u00b0 C).\n"
+    },
+    {
+        "name": "Precious Material",
+        "category": "Munich Helles",
+        "ingredients": [
+            "25 lb (11.3 kg) Bohemian Pilsner malt",
+            "3 lb (1.36 kg) Vienna malt",
+            "1.5 lb (0.68 kg) Munich malt",
+            "0.75 lb (0.34 kg) CaraHell malt",
+            "4 oz (113 g) German Tettnang hops (90 min)",
+            "2.5 oz (71 g) German Tettnang hops (15 min)",
+            "German Lager yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.052 (12.8 P)",
+            "Final Gravity: 1.010 (2.6 P)",
+            "ABV: 5.5%",
+            "IBU: 29",
+            "SRM: 3"
+        ],
+        "intruction": "Single infusion mash at 152\u00b0 F (67\u00b0C). Ferment at 52\u00b0 F (11\u00b0 C) until gravity reaches 1.018 (4.5 P), then raise fermentation temperature to 60\u00b0 F (16\u00b0 C) for diacetyl rest.\n"
+    },
+    {
+        "name": "Family Vacation",
+        "category": "Cream Ale",
+        "ingredients": [
+            "26 lb (11.8 kg) Pilsner malt",
+            "3 lb (1.36 kg) Flaked Barley",
+            "1 oz (28 g) Saaz hops, 3.4% a.a. (60 min)",
+            "1 oz (28 g) Saaz hops. 3.4% a.a. (30 min)",
+            "1 oz (28 g) Comet hops, 9.5% a.a. (5 min)",
+            "1 oz (28 g) Saaz hops, 3.4% a.a. (5 min)",
+            "Whirlfloc (10 min)",
+            "Yeast Nutrient (10 min)",
+            "American Ale yeast"
+        ],
+        "specifications": [
+            "Original Gravity: 1.044 (11 P)",
+            "Final Gravity: 1.007 (1.75 P)",
+            "ABV: 4.9%",
+            "IBU: 11",
+            "SRM: 3"
+        ],
+        "intruction": "Mash at 152\u00b0 F (67\u00b0 C) with a thin grist/water ratio. Boil 60 minutes. Ferment at 69\u00b0 F (21\u00b0 C) (if possible, raise temperature to 72\u00b0 F (22\u00b0 C) when gravity has reached 1.012/3 or when terminal for a diacetyl rest). Cool to 32\u00b0 F (0\u00b0 C) (step cooling will reduce chill haze). Add fining agent of your choice and rest at 32\u00b0 F (0\u00b0 C) for 3-7 days or until clarity is to your liking. Carbonate to 2.5-2.6 volumes CO2 and enjoy!\nFor fun, you can dry hop or add fruit to this beer. Roadhouse Brewing has done both! If fruiting, we recommend adding fruit during fermentation to ensure all sugars are consumed before packaging. If dry hopping, pick your favorite and go light, as this is a delicate beer and a little goes a long way!\n"
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+]
